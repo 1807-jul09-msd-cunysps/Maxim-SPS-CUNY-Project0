@@ -1,0 +1,16 @@
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\ClassLibrary2Tests.dll
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\ClassLibrary2Tests.pdb
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\ClassLibrary2.dll
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\ClassLibrary2.pdb
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\obj\Debug\ClassLibrary2Tests.csprojAssemblyReference.cache
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\obj\Debug\ClassLibrary2Tests.csproj.CoreCompileInputs.cache
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\obj\Debug\ClassLibrary2Tests.csproj.CopyComplete
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\obj\Debug\ClassLibrary2Tests.dll
+c:\users\max\source\repos\ClassLibrary2\ClassLibrary2Tests\obj\Debug\ClassLibrary2Tests.pdb
